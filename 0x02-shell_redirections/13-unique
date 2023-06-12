@@ -1,0 +1,2 @@
+#!/bin/bash
+python unique_words.py
