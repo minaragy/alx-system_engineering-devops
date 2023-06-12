@@ -1,2 +1,2 @@
 #!/bin/bash
-python unique_words.py
+sort | uniq -u
