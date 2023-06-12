@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Enter the acrostic message (press Ctrl+D to finish):"
